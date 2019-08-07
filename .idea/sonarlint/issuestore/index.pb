@@ -1,4 +1,104 @@
 
+W
+'.idea/libraries/ansi_terminal_0_8_2.xml,f/a/fa40da3ceeb3ac835a91cf4efe4cfd21923a7397
+Q
+!.idea/libraries/array_0_5_3_0.xml,1/c/1c5c2a9b79eddcb0b1e157f951f455983d42d8be
+Q
+!.idea/libraries/base_4_12_0_0.xml,3/6/367ace712ae319a62c5d9fd03ac041a139c6740e
+W
+'.idea/libraries/bytestring_0_10_8_2.xml,8/3/83db0537c9b00e8e621106abe3478cdcb677c7c0
+T
+$.idea/libraries/call_stack_0_1_0.xml,0/b/0bc4a8658cd7c8834e4a24682948abc8d0d80d89
+O
+.idea/libraries/clock_0_7_2.xml,a/c/ac1bcce8b019f981c99d8541610e3ad3234ee5c9
+P
+ .idea/libraries/colour_2_3_5.xml,1/f/1f669aebf81fdfa5a1211a37b6dcf0f9b4713ef5
+V
+&.idea/libraries/containers_0_6_0_1.xml,7/a/7adaf4d33164d00d998d06a90a99b1da0253e650
+S
+#.idea/libraries/deepseq_1_4_4_0.xml,8/9/89af2b2d48386d3a37ab988fbcb27c31dda2e0c8
+U
+%.idea/libraries/directory_1_3_3_0.xml,1/3/135ac1de89705ec7e2587706f5842d0e5f89b6e9
+O
+.idea/libraries/erf_2_0_0_0.xml,8/a/8a876aa83fc336c4c543304a2624e025acf0fde8
+T
+$.idea/libraries/filepath_1_4_2_1.xml,f/7/f77c7444b97b0a1ad3ff42d0791e21bcc14d0ac8
+U
+%.idea/libraries/ghc_boot_th_8_6_5.xml,4/8/4858a2c8d38c7de2b8984fe9ba456469e56ae4ee
+R
+".idea/libraries/ghc_prim_0_5_3.xml,1/6/16a745343fe8511f541280257d8e1369d4731b9e
+O
+.idea/libraries/hspec_2_6_1.xml,3/2/3235ba549536869cb0769fb45145627df066de00
+T
+$.idea/libraries/hspec_core_2_6_1.xml,b/3/b3985f4aacd3f45c3006a270ca9c199b9901fe60
+X
+(.idea/libraries/hspec_discover_2_6_1.xml,a/d/adced0f28f3a22ad5b7bc3a7155757fba43cbf74
+\
+,.idea/libraries/hspec_expectations_0_8_2.xml,0/0/0099636546e755be5cdc96aa1cdf18ed77ea626b
+Q
+!.idea/libraries/HUnit_1_6_0_0.xml,1/3/137a6a137dbda8d697e104395fecd7fe0aa03ea9
+W
+'.idea/libraries/integer_gmp_1_0_2_0.xml,f/1/f19a9297adabc8a4a93314ffeb19fcffb90bcc4e
+R
+".idea/libraries/pretty_1_1_3_6.xml,a/f/af988126cf519167540e6c0f411b247fc1a54236
+U
+%.idea/libraries/primitive_0_6_4_0.xml,8/c/8c9522ff054b5b70271b1a97d9f50719973363de
+W
+'.idea/libraries/QuickCheck_2_12_6_1.xml,0/6/0665dbf979679e852701bac91c35969be0e8a87e
+W
+'.idea/libraries/quickcheck_io_0_2_0.xml,d/c/dc49a6206d844c6712ccd06cc1ced07cf9fca03c
+N
+.idea/libraries/random_1_1.xml,1/c/1cefe4cac7cf4e9dc82da99228c082b38df71180
+R
+".idea/libraries/setenv_0_1_1_3.xml,d/5/d5ff512824433b400e9cbd8bc1b697b23ff833c5
+O
+.idea/libraries/stm_2_5_0_0.xml,f/2/f2546f71359add0b21fbd707ac275879ded81f95
+]
+-.idea/libraries/template_haskell_2_14_0_0.xml,7/4/748f4a2bbbf0f6e63cec692f76ef073213f235f4
+Q
+!.idea/libraries/tf_random_0_5.xml,c/1/c11baaa72185cbf5ba14a48a0f206bb0e1fd5744
+P
+ .idea/libraries/time_1_8_0_2.xml,c/9/c9dbeefb2e4432c55719315804f8a3fcd177de53
+X
+(.idea/libraries/transformers_0_5_6_2.xml,f/d/fd2a5b929a6f3e2841464fa4aab027a2f82d900e
+P
+ .idea/libraries/unix_2_7_2_2.xml,9/a/9a0f77297a8fe3423f36e4461731fc57c92fe879
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+;
+app/Main.hs,1/8/189a2523965368c2ab61a418decbe6396326cb6b
+U
+%out/production/TronBotHaskell/Main.hs,e/7/e77ff2dcae1d4c3b58d30cfbdc81e09bcd25389b
+Z
+*out/production/TronBotHaskell/MapParser.hs,e/6/e67e04e960ac75a200f11826cd04c94d96a56bf6
+O
+out/test/TronBotHaskell/Spec.hs,1/9/194dada70a421882a5a749334fb2d4be5e9ffb26
+<
+test/Spec.hs,8/c/8c7075e72b62b3881b1c0059bec61f0a940a40cc
 :
 
-src/Lib.hs,7/b/7b1481fd259017ca01b920cc92a4918d60f38fe5
+.directory,6/7/67e2d94cd49a3f37afdaa0b4d79357f468a7b783
+<
+ChangeLog.md,4/5/458e1d0f85716e3c7c27857fb05bfd41d637ba7c
+7
+LICENSE,0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
+<
+package.yaml,2/8/28496d289b7a4da053c208743b3f520f23bd1e28
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+8
+Setup.hs,e/2/e27367873b65e03edd60d624d93eeafb1e4ada9a
+:
+
+stack.yaml,4/8/488c94119bfadd4d6d7832687f6f0fe09496d5f6
+?
+stack.yaml.lock,9/b/9bb54b12369c82dad27f23478639306c5c56a143
+D
+TronBotHaskell.cabal,3/e/3e38293151aa6f05f941a85a82c898121ccb1d87
+B
+TronBotHaskell.iml,7/6/76c2ba43029df953eb699d3a9dd0bc62689b1f11
+@
+src/MapParser.hs,2/c/2c13a1102c96e40f24f3e30a0ed356f2873270a7
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
