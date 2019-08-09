@@ -1,11 +1,11 @@
 module MapParser
-    ( numberParser, numberOfSpaces, foldList
+    ( numberParser, numberOfSpaces, foldList, clearList
     ) where
 
 import Text.Read
 import Data.Maybe
 
---TODO: fold list on a '/'
+-- (numberParser List -> foldList List -> clearList List) => returns valid parsed map in a two-dimensional list form
 
 numberOfSpaces :: Int -> String
 numberOfSpaces 1 = " "
@@ -21,8 +21,10 @@ numberParser (x:xs)
   | otherwise = x : numberParser xs
 
 foldList :: String -> [String]
-foldList [] = [[]]
+foldList [] = []
 foldList [x] = [[x]]
-foldList (x:xs)
-  | x == '/' = [x] : foldList xs
-  | otherwise = [x : concat (foldList xs)]
+foldList (x:xs) = (x : takeWhile (/='/') xs) : foldList (dropWhile (/='/') xs)
+
+clearList :: [String] -> [String]
+clearList = map (filter (/= '/'))
+
